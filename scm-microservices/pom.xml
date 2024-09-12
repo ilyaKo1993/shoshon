@@ -17,13 +17,13 @@
 
     <modules>
         <!--		<module>scm-common</module>-->
-        <!--		<module>scm-inventory-service</module>-->
+        		<module>scm-inventory-service</module>
         <!--		<module>scm-order-service</module>-->
         <!--		<module>scm-supply-chain-service</module>-->
         <!--		<module>scm-warehouse-service</module>-->
         <!--		<module>scm-supplier-service</module>-->
         <!--		<module>scm-shipping-service</module>-->
-        <module>scm-customer-service</module>
+<!--        <module>scm-customer-service</module>-->
         <!--		<module>scm-analytics-service</module>-->
         <!--		<module>scm-notification-service</module>-->
         <!--		<module>scm-auth-service</module>-->
@@ -47,6 +47,11 @@
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-test</artifactId>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.mockito</groupId>
+            <artifactId>mockito-core</artifactId>
             <scope>test</scope>
         </dependency>
         <dependency>
