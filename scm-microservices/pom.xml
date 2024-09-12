@@ -18,7 +18,7 @@
     <modules>
         <!--		<module>scm-common</module>-->
         		<module>scm-inventory-service</module>
-        <!--		<module>scm-order-service</module>-->
+        		<module>scm-order-service</module>
         <!--		<module>scm-supply-chain-service</module>-->
         <!--		<module>scm-warehouse-service</module>-->
         <!--		<module>scm-supplier-service</module>-->
