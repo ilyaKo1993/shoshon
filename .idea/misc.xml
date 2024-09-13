@@ -6,7 +6,14 @@
       <list>
         <option value="$PROJECT_DIR$/scm-microservices/pom.xml" />
         <option value="$PROJECT_DIR$/scm-order-service/pom.xml" />
+        <option value="$PROJECT_DIR$/scm-microservices/testProdusser/pom.xml" />
+        <option value="$PROJECT_DIR$/testProdusser/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/scm-microservices/testProdusser/pom.xml" />
+      </set>
     </option>
     <option name="workspaceImportForciblyTurnedOn" value="true" />
   </component>

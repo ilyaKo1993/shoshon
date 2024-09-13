@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/scm-microservices/scm-customer-service/scm-inventory-service.iml" filepath="$PROJECT_DIR$/scm-microservices/scm-customer-service/scm-inventory-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/scm-microservices.iml" filepath="$PROJECT_DIR$/.idea/scm-microservices.iml" />
       <module fileurl="file://$PROJECT_DIR$/scm-order-service/scm-order-service.iml" filepath="$PROJECT_DIR$/scm-order-service/scm-order-service.iml" />
     </modules>
